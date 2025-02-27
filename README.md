@@ -10,11 +10,11 @@ Tiene un formulario con webform
 y una vista de noticias
 El sitio es Multilenguaje en español e ingles
 
-Inline-style: 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://raw.githubusercontent.com/david-abril-vass/dr7base/refs/heads/main/home.png) "Home")
+Home
+![alt text](https://github.com/david-abril-vass/dr7base/blob/main/home.png?raw=true "Home")
 
 
-Inline-style: 
+Formulario 
 ![alt text](https://raw.githubusercontent.com/david-abril-vass/dr7base/refs/heads/main/form.PNG "Formulario")
 
 ## Credenciales administración 
